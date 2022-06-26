@@ -42,12 +42,16 @@
 
 Esse aplicativo foi desenvolvido pensando no uso do motorista que poderia utilizar a plataforma para:
 
-* cadastrar todas as crianças do seu itinerário diário
+* Cadastrar todas as crianças do seu itinerário diário
 * Ajustar a ordem das paradas com uma função de drag and drop
 * Gerar itinerário com a posição da van em tempo real, rota até a escola e marcadores para cada parada
 
+<h2>Geração do itinerário</h2>
+<p>Condutor consegue ordenar as crianças ao clicar e arrastar os cards</p>
 <p align="center"><img src="https://github.com/bdellacoletta/cade-o-tio/blob/master/app/assets/images/6.png"></p>
+<h2>Cadastro de criança</h2>
 <p align="center"><img src="https://github.com/bdellacoletta/cade-o-tio/blob/master/app/assets/images/7.png"></p>
+<h2>Mapa com rota e paradas</h2>
 <p align="center"><img src="https://github.com/bdellacoletta/cade-o-tio/blob/master/app/assets/images/8.png"></p>
 
 <!-- ROADMAP -->
