@@ -58,7 +58,7 @@ Esse aplicativo foi desenvolvido pensando no uso do motorista que poderia utiliz
 <!-- CONTRIBUTING -->
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
 Branca - brancasdc@gmail.com<br>
 Bruno - brunoshingai@gmail.com<br>
